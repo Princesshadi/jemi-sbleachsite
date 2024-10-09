@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  text-align: center;
+  color: #833208;
+  background-color: #0d0c0c;
+
+} 
+
+img{
+  border-radius: 16px;
+}
